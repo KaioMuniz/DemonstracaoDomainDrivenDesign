@@ -1,3 +1,5 @@
+```
+
 src/main/java/br/com/kaiomuniz
 │
 ├── domain                     # Núcleo do negócio (DDD puro)
@@ -49,3 +51,6 @@ src/main/java/br/com/kaiomuniz
     ├── constants              # Constantes globais (evita magic values)
     ├── exceptions             # Exceções técnicas compartilhadas
     └── annotations            # Anotações customizadas (cross-cutting concerns)
+
+
+```
